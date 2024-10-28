@@ -1,6 +1,7 @@
 Strategies in the Repeated Prisoner's Dilemma:A Cluster Analysis
 
-Yuval Heller Department of Economics, Bar-Ilan University. Email: yuval.heller@biu.ac.il || https://sites.google.com/site/yuval26/ and 
+Yuval Heller Department of Economics, Bar-Ilan University. Email: yuval.heller@biu.ac.il || https://sites.google.com/site/yuval26/ 
+and
 Itay Tubul Department of Economics, Bar-Ilan University. Email: tubulit@biu.ac.il || https://sites.google.com/view/itay-tubul-cv
 
 Abstract 
